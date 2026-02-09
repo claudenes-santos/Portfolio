@@ -1,0 +1,5 @@
+Apgile is a real-time service request and team coordination platform built to improve customer experience and operational efficiency. The system allows users to submit service requests instantly, while staff receive and manage those requests in real time with performance tracking and analytics.
+
+The platform was developed using a modern full-stack architecture. Laravel powers the backend APIs, business logic, and role-based access control. React is used on the frontend to deliver a responsive, component-driven user interface. Firebase enables real-time updates and notifications, ensuring instant communication between users and staff. The application is deployed on AWS, providing scalability, reliability, and production-grade infrastructure.
+
+This project demonstrates experience in full-stack development, real-time systems, cloud deployment, and building scalable production applications.

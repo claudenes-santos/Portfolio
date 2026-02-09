@@ -1,0 +1,12 @@
+PeerHaul is a peer-to-peer delivery platform that connects drivers with people needing items delivered, providing a cost-effective and environmentally friendly alternative to traditional courier services. Users can post delivery requests, and drivers can accept jobs along their routes, supporting both local and long-haul deliveries.
+
+The platform was developed with a full-stack JavaScript architecture:
+
+-Nuxt.js powers the frontend, providing a performant, SEO-friendly, and responsive interface.
+-Node.js handles the backend APIs, business logic, and database interactions, ensuring real-time updates and secure transactions.
+
+This project demonstrates experience in full-stack development, real-time web applications, and scalable production-ready systems.
+
+🔧 Tech Stack
+
+Nuxt.js · Node.js · REST APIs · Real-time updates · Cloud deployment

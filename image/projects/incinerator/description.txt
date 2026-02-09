@@ -1,0 +1,14 @@
+Incinerator.app is a decentralized web application built on Solana that enables users to securely interact with blockchain assets. The platform integrates wallet connectivity and smart contract logic to deliver seamless, on‑chain functionality with high performance and real-time feedback.
+
+The project uses a modern Web3 architecture:
+
+-React for a responsive, interactive frontend experience
+-Solana blockchain for fast, low‑cost transactions and decentralized execution
+-Rust for writing high‑performance on‑chain smart contracts
+-Wallet integration (e.g., Phantom, Solflare) to authenticate users and sign transactions
+
+This project demonstrates expertise in blockchain development, Web3 integration, full‑stack JavaScript/crypto stacks, and secure wallet management.
+
+🔧 Tech Stack
+
+React · Solana · Rust · Wallet integration · Web3 / Smart Contracts

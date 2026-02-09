@@ -1,0 +1,14 @@
+Booke.ai is an AI‑powered booking and scheduling platform designed to streamline appointments and interactions between users and service providers. The application combines intelligent automation with a user‑friendly interface to deliver efficient scheduling, smart recommendations, and enhanced user engagement.
+
+The platform was developed using a modern full‑stack architecture:
+
+-React for a responsive, dynamic frontend UI
+-DDanielgo for backend business logic, REST APIs, and database management
+-AI integration to deliver intelligent features such as automated recommendations and smart scheduling
+-AWS for scalable cloud deployment, storage, and performance
+
+This project highlights experience in AI‑augmented applications, full‑stack development, API design, and cloud infrastructure.
+
+🔧 Tech Stack
+
+React · DDanielgo · AI Integration · AWS · REST APIs · Cloud Deployment
