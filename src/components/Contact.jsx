@@ -47,7 +47,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/claudenes-santos-8755203ab/"
+            href="https://www.linkedin.com/in/claudenes-santos-453a233b1"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-item"
@@ -65,7 +65,7 @@ const Contact = () => {
             <div className="contact-details">
               <span className="contact-label">LinkedIn</span>
               <span className="contact-value">
-                in/claudenes-santos-8755203ab/
+                in/claudenes-santos-453a233b1
               </span>
             </div>
           </a>

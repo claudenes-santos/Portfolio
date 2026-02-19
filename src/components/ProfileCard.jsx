@@ -153,7 +153,7 @@ const ProfileCard = () => {
             Message
           </a>
           <a
-            href="https://www.linkedin.com/in/claudenes-santos-8755203ab/"
+            href="https://www.linkedin.com/in/claudenes-santos-453a233b1"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-secondary"

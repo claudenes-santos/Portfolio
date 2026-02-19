@@ -95,7 +95,7 @@ Your Technical Skills:
 
 Your Contact:
 - Email: claudenes-santos@proton.me
-- LinkedIn: https://www.linkedin.com/in/claudenes-santos-8755203ab/
+- LinkedIn: https://www.linkedin.com/in/claudenes-santos-453a233b1
 
 Communication style:
 - Be conversational and friendly
